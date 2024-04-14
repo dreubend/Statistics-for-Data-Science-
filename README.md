@@ -3,6 +3,7 @@ Unraveling Natural Forces: Climate Change Factors Beyond Human Influence
 
 
 Introduction
+
 I am currently watching a series on Netflix called Life on Our Planet. It mentions at times that right now only 1% of all species that have ever lived have made it to today, meaning that 99% of all species have gone extinct. Many times, it mentioned that there were mass extinctions brought on by some phenomenon. One such extinction was because of a drop in CO2, and another was because of an increase in CO2. I thought that humans were to blame for what is happening right now to the climate, but throughout the 4.5 billion years of Earth’s history it has mostly been the Earth causing its own demise on the living. I wanted to explore if there are other parts to climate change that we are not taking notice of.
 
 Right now, climate change is an issue of paramount importance in today's world, with the potential to impact ecosystems, economies, and societies worldwide. While I acknowledge the substantial body of research that focuses on human-induced factors contributing to climate change, I also recognize a parallel narrative involving natural forces that significantly influence our planet's climate dynamics. This presents a crucial problem: I believe that understanding and distinguishing between natural climate change factors and human-induced ones is of great importance.
@@ -14,6 +15,7 @@ In this context, I firmly believe that data science plays a pivotal role in deci
 Therefore, my exploration delves into a crucial data science challenge: analyzing and modeling the impact of natural factors on climate change. I believe this is essential, addressing why it matters, and highlighting the significance of this interdisciplinary approach in the broader fight against climate change. 
 
 My specific interests are the movement of the poles, the number of sunspots on the sun, and temperatures over time in general. 
+
 Research Questions
 1.	How has the Earth’s pole position over time correlates between Earth’s climate?
 2.	Are there patterns or cycles in Earth's pole positions that can help us predict future movements and their climatic effects?
@@ -22,7 +24,7 @@ Research Questions
 5.	What are the historical trends in volcanic CO2 emissions, and how do they compare to human CO2 emissions?
 6.	Can we quantify the specific contribution of volcanic CO2 emissions to the overall atmospheric CO2 concentration and later climate effects?
 7.	What are the key variables affecting the Earth's climate that are driven by natural forces, and how do they interact?
-8.	
+
 Approach
 
 In my approach I will try to investigate this multifaceted problem statement surrounding “Unraveling Natural Forces: Climate Change Factors Beyond Human Influence.” It will involve the statistical analysis of various natural climate change factors and their impact on our environment.
